@@ -69,6 +69,7 @@ cd openclaw-visual-backend
 
 ```bash
 npm run setup
+npm test
 ```
 
 这个命令会自动：
